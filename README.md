@@ -1,4 +1,4 @@
-# Mustafa EREN
+# Hii there ! 🙋‍♂️ 
 I graduated from Management Information System. After that it’s been two years I’m working as a programmer. Now, I work as a developer of full stack. 
 <br>
 <br>
