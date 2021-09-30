@@ -25,4 +25,5 @@ My social media accounts;
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://mstafa-erenn.medium.com/) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](http://mustafaeren.site/)
 
-
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderentr&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=808080" alt="ksenginew" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderentr&background=00000000&currStreakNum=gray&sideNums=gray&currStreakLabel=gray&sideLabels=gray&dates=gray" alt="ksenginew" /></p>
