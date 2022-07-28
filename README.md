@@ -1,5 +1,5 @@
 # Hii there ! 🙋‍♂️ 
-I graduated from Management Information System. After that, it’s been more than three years since I’m working as a programmer. Now, I work as a developer of full stack. 
+I am a graduate of Management Information Systems. I have been working as a Full Stack developer for about 4 years.
 <br>
 <br>
 
