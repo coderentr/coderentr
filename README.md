@@ -1,4 +1,4 @@
-# Hii there ! 🙋‍♂️ 
+# Hi there ! 🙋‍♂️ 
 I am a graduate of Management Information Systems. I have been working as a Full Stack developer for about 4 years.
 <br>
 <br>
